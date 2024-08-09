@@ -1,5 +1,5 @@
-# streamlit-sso-saml
-streamlit SSO SAML integration workaround 
+# streamlit-sso-saml "Education purpose. Use at your own discretion"
+streamlit SSO SAML integration workaround . The code commited covers option 1 & 2
 
 Option 1: Using pysaml2 with xmlsec
 ```
